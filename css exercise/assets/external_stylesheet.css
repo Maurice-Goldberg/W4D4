@@ -1,0 +1,30 @@
+body {
+    font: "Arial, sans-serif"
+    background-color: light-blue;
+}
+
+h1 {
+    font-size: 38px
+}
+
+h2 {
+    font-size: 32px
+
+}
+
+header > img {
+    width: 100px;
+}
+
+ul li a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.ingredients-list {
+    list-style: "square inside";  
+}
+
+.directions-list {
+    list-style: "georgian inside";
+}
